@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fc09beacd216f0b",
+        "id": "579148cb6af78cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "ebcd0a1f212a3104",
+            "id": "61a2c76151388cdf",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -20,32 +20,13 @@
                     false,
                     false,
                     false,
+                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
               "title": "Список задач"
-            }
-          }
-        ]
-      },
-      {
-        "id": "94fd739211d8dffa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "407bb1facdfde3f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подзадачи/Обсудить с шефом схему построения витрин.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Обсудить с шефом схему построения витрин"
             }
           }
         ]
@@ -207,16 +188,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ebcd0a1f212a3104",
+  "active": "61a2c76151388cdf",
   "lastOpenFiles": [
-    "Подзадачи/Обсудить с шефом схему построения витрин.md",
-    "Список задач.md",
-    "Подзадачи/Создание сервиса для установки себестоимостей товаров.md",
-    "Сделать STG таблицы в которые перегоняются все raw данные системы.md",
-    "Подзадачи/Сделать STG таблицы в которые перегоняются все raw данные системы.md",
     "Создание сервиса для установки себестоимостей товаров.md",
-    "Подзадачи",
+    "Список задач.md",
     "Welcome.md",
+    "Подзадачи/Обсудить с шефом схему построения витрин.md",
+    "Подзадачи",
+    "conflict-files-obsidian-git.md",
     "Пометки.md",
     "Документация проекта/Топики Kafka.md",
     "Документация проекта"
