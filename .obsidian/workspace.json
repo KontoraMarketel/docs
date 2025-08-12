@@ -39,14 +39,10 @@
             "id": "ef3688e91fdf2d9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Подзадачи/Иди нахуй пэдик.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Иди нахуй пэдик"
+              "title": "New tab"
             }
           }
         ]
@@ -208,7 +204,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ef3688e91fdf2d9e",
+  "active": "72a59189cb524655",
   "lastOpenFiles": [
     "Подзадачи/Создание сервиса для установки себестоимостей товаров.md",
     "Подзадачи/Иди нахуй пэдик.md",
