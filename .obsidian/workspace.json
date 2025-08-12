@@ -4,28 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "91c35baf99bda21f",
+        "id": "0d05ca2f7e549e82",
         "type": "tabs",
         "children": [
           {
-            "id": "6485c1e5c91c19a5",
+            "id": "55dc2896cb05a833",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
                 "file": "Список задач.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
+              "icon": "lucide-file",
               "title": "Список задач"
             }
           }
@@ -188,11 +180,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6485c1e5c91c19a5",
+  "active": "55dc2896cb05a833",
   "lastOpenFiles": [
+    "Список задач.md",
     "Подзадачи/Иди нахуй пэдик.md",
     "Подзадачи/Создание сервиса для установки себестоимостей товаров.md",
-    "Список задач.md",
     "Создание сервиса для установки себестоимостей товаров.md",
     "Документация проекта/Топики Kafka.md",
     "Welcome.md",
