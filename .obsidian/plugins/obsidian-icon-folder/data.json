@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookmarkPlus",
+      "LiListTodo",
       "LiArmchair"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +32,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Welcome.md": "LiArmchair"
+  "Welcome.md": "LiArmchair",
+  "Список задач.md": "LiListTodo",
+  "Пометки.md": "LiBookmarkPlus"
 }

@@ -11,21 +11,14 @@
             "id": "57059d0c5bcdecff",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Список задач.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Документация проекта/Топики Kafka.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Список задач"
+              "icon": "lucide-file",
+              "title": "Топики Kafka"
             }
           }
         ]
@@ -101,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Список задач.md",
+                "file": "Документация проекта/Топики Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Список задач"
+              "title": "Backlinks for Топики Kafka"
             }
           },
           {
@@ -120,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Список задач.md",
+                "file": "Документация проекта/Топики Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Список задач"
+              "title": "Outgoing links from Топики Kafka"
             }
           },
           {
@@ -149,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Список задач.md",
+                "file": "Документация проекта/Топики Kafka.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Список задач"
+              "title": "Outline of Топики Kafka"
             }
           },
           {
@@ -189,8 +182,8 @@
   },
   "active": "57059d0c5bcdecff",
   "lastOpenFiles": [
-    "Пометки.md",
     "Список задач.md",
+    "Пометки.md",
     "Welcome.md",
     "Документация проекта/Топики Kafka.md",
     "Документация проекта"
