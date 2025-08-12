@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiIndentIncrease",
       "LiBookmarkPlus",
       "LiListTodo",
       "LiArmchair"
@@ -32,7 +33,8 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Welcome.md": "LiArmchair",
   "Список задач.md": "LiListTodo",
-  "Пометки.md": "LiBookmarkPlus"
+  "Пометки.md": "LiBookmarkPlus",
+  "Подзадачи": "LiIndentIncrease",
+  "Документация проекта": "LiArmchair"
 }

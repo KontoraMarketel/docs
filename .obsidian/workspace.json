@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "579148cb6af78cbc",
+        "id": "0c465908bfb1984b",
         "type": "tabs",
         "children": [
           {
-            "id": "61a2c76151388cdf",
+            "id": "899d6de17895fb6c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Список задач.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Список задач"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -102,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Список задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Список задач"
+              "title": "Backlinks"
             }
           },
           {
@@ -121,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Список задач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Список задач"
+              "title": "Outgoing links"
             }
           },
           {
@@ -150,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Список задач.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Список задач"
+              "title": "Outline of Welcome"
             }
           },
           {
@@ -188,7 +174,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "61a2c76151388cdf",
+  "active": "72a59189cb524655",
   "lastOpenFiles": [
     "Создание сервиса для установки себестоимостей товаров.md",
     "Список задач.md",
