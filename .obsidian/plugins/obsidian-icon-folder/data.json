@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
       "LiIndentIncrease",
       "LiBookmarkPlus",
       "LiListTodo",
@@ -36,5 +37,6 @@
   "Список задач.md": "LiListTodo",
   "Пометки.md": "LiBookmarkPlus",
   "Подзадачи": "LiIndentIncrease",
-  "Документация проекта": "LiArmchair"
+  "Документация проекта": "LiArmchair",
+  "Подзадачи/Иди нахуй пэдик.md": "LiAccessibility"
 }
