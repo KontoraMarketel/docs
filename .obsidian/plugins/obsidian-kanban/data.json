@@ -1,3 +1,4 @@
 {
-  "show-checkboxes": false
+  "show-checkboxes": false,
+  "new-note-folder": "Подзадачи"
 }
