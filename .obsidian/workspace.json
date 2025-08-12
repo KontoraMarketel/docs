@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc3c53b103e5d34b",
+        "id": "579148cb6af78cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "57059d0c5bcdecff",
+            "id": "61a2c76151388cdf",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,6 +17,7 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
                     false,
                     false,
                     false,
@@ -187,12 +188,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "57059d0c5bcdecff",
+  "active": "61a2c76151388cdf",
   "lastOpenFiles": [
-    "Пометки.md",
     "Список задач.md",
-    "Документация проекта/Топики Kafka.md",
+    "Пометки.md",
     "Welcome.md",
+    "Документация проекта/Топики Kafka.md",
     "Документация проекта"
   ]
 }
